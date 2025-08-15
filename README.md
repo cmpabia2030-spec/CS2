@@ -1,10 +1,5 @@
 # Quarter 1 Project Proposal 
 
-## Group Members
-- Cathleah Pabia
-- Rhyz Kim Corvera
-- Meil Antepasado
-
 ## Project Title
 CodeQuest: School Expense Tracker
 
@@ -52,4 +47,11 @@ IF View Expenses
 IF Search
     Ask for category or date
     Display matching expenses
+
+    
+## Group Members
+- Cathleah Pabia
+- Rhyz Kym Corvera
+- Meil Antepasado
+
 
