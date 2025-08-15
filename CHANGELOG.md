@@ -29,3 +29,8 @@ The format follows *Semantic Versioning*: vMAJOR.MINOR.PATCH
 ## [v1.4.0] 
 - Added monthly spending report feature.
 - Optimized expense storage for faster loading.
+
+## Group members:
+ - Cathleah Pabia
+ - Rhyz Kym Corvera
+ - Meil Antepasado
